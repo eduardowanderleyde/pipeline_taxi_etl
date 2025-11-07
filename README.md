@@ -23,3 +23,5 @@
 
 ```python
 python nyc_taxi_pipeline.py
+![WhatsApp Image 2025-11-07 at 20 12 16](https://github.com/user-attachments/assets/eb6f019c-e85d-4375-99ff-94d0147a87cc)
+![WhatsApp Image 2025-11-07 at 18 42 15](https://github.com/user-attachments/assets/6480794a-d364-48db-8025-1ef9983feb36)
