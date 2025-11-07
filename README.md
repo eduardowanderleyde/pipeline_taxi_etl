@@ -21,8 +21,7 @@
 
 ## 🚀 Quick Start
 
-```python
-python nyc_taxi_pipeline.py
+
 ![Dashboard Preview](https://github.com/user-attachments/assets/eb6f019c-e85d-4375-99ff-94d0147a87cc)
 ![Dashboard Preview](https://github.com/user-attachments/assets/6480794a-d364-48db-8025-1ef9983feb36)
 
